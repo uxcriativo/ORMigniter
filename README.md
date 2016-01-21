@@ -10,7 +10,7 @@ ORMigniter is a Full Project with Codeigniter 3 + Doctrine (ORM) + TEMPLATinigit
 - Doctrine SHELL (commands shell to update and manage database entities)
 - JS Libraries (Modernizr,Jquery,Bootstrap);
 
-#Why STARTigniter?
+#Why ORMigniter?
 - Private Areas: 
 - Administrator->Full user and groups manager
 - Member->Basic  Private HomePage 
