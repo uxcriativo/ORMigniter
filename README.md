@@ -1,11 +1,13 @@
-# TEMPLATigniter
-TEMPLATigniter is a Start Project in Codeigniter 3 + Smarty + Startigniter (Private Areas) 
+# ORMigniter
+ORMigniter is a Full Project with Codeigniter 3 + Doctrine (ORM) + TEMPLATinigiter (template engine with Private-Area)
 
 ## What are inside?
 - [Codeigniter 3](https://github.com/bcit-ci/CodeIgniter).
 - HMVC third-party (modular applications)
 - Ion-auth;
 - Smarty (Template Engine)
+- Doctrine 2 (ORM Object-relational mapping)
+- Doctrine SHELL (commands shell to update and manage database entities)
 - JS Libraries (Modernizr,Jquery,Bootstrap);
 
 #Why STARTigniter?
@@ -14,6 +16,7 @@ TEMPLATigniter is a Start Project in Codeigniter 3 + Smarty + Startigniter (Priv
 - Member->Basic  Private HomePage 
 - Public Area: 
 - Basic Website Template 
+- Basic Object-relational mapping welcome.php 
 
 # Get Start
 - Fork Project
